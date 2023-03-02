@@ -2,7 +2,6 @@
   @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@1,300&family=Lato:wght@300&display=swap');
 
 *{
-    font-family: 'Hanken Grotesk', sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -11,6 +10,8 @@
 
 
 body{
+  
+    font-family: 'Hanken Grotesk', sans-serif;
     background: hsl(221, 100%, 96%) ;
     width: 1440px;
     min-height: 100vh;
